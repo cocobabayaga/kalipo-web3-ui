@@ -19,7 +19,7 @@
     "sodium-native": "^3.4.1",
     "uuid": "^9.0.0",
     "vue-keypress": "^2.1.2",
-    "vuetify": "^2.6.6"
+    "vuetify": "^2.6.15"
   },
   "devDependencies": {
     "@iconify/vue2": "^2.0.1",
